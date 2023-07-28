@@ -62,4 +62,5 @@ const students = [
     // Add more students here
   ];
   
-  export {students};
+  // export {students};
+  export default data;
