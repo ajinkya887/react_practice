@@ -1,5 +1,4 @@
-// import React from 'react';
-// import { students } from './data';
+
 
 // const StudentList = () => {
 
